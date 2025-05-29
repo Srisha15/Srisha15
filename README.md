@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer enthusiastic about exploring new technologies</h3>
 <br>
 <br>
-<img src="Srisha_Profile.png"/>
+<!-- <img src="Srisha_Profile.png"/> -->
 
 🔭 I'm currently working on developing my skills and improving my understanding of Data Structures and Algorithms.<br><br>🌱 I’m currently learning full-stack development and have just started working with SpringBoot<br><br>💬 Ask me about javascript, react and python<br><br>😊 My hobbies include reading fiction, trekking, and cooking.<br><br>😜 I think I'm funny—just in my own funny way.<br><br>
 
